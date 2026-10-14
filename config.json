@@ -5,7 +5,15 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
+    },    
+    "wgeu96": {
+      "api": "https://files.catbox.moe/wgeu96.txt",
+      "name": "Live TV"
     },
+    "x4": {
+      "api": "https://0.12yue.de5.net/0/x4.json",
+      "name": "inport"
+    },    
     "gszy": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "光速资源"
